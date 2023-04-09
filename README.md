@@ -1,6 +1,6 @@
 # my-git-lecture
 
-This repo is "my version" of the first course about Git and Github in Sayna Academy  😄
+This repo is "inspired" by the first course about Git and Github in Sayna Academy  😄
 
 I use it to share with my team about the topic.
 
