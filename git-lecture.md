@@ -2,9 +2,9 @@
 
 ## create a new repository on the command line
 
-## In the working Directory (you want to track):
+### In the working Directory (you want to track)
 
-**(shell)**
+### (shell)
 
 echo "# my-git-lecture" >> README.md
 git init
@@ -14,11 +14,11 @@ git branch -M main
 git remote add origin git@github.com:mitsinjou/my-git-lecture.git
 git push -u origin main
 
-# push an existing repository from the command line
+## push an existing repository from the command line
 
-## In the working Directory (you want to track):
+### In the working Directory pwd (you want to track)
 
-**(shell)**
+### (in the shell)
 
 git remote add origin git@github.com:mitsinjou/my-git-lecture.git
 git branch -M main
