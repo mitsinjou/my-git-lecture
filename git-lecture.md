@@ -1,6 +1,6 @@
 # Setup of a Github Repository
 
-## create a new repository on the command line
+## 1-create a new repository on the command line
 
 ### In the working Directory (you want to track)
 
@@ -14,7 +14,7 @@ git branch -M main
 git remote add origin git@github.com:mitsinjou/my-git-lecture.git
 git push -u origin main
 
-## push an existing repository from the command line
+## 2- push an existing repository from the command line
 
 ### In the working Directory pwd (you want to track)
 
