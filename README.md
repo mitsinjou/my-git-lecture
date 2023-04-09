@@ -2,7 +2,7 @@
 
 This repo is "my version" of the first course about Git and Github in Sayna Academy  😄
 
-I use it to share with my team about the tpoic.
+I use it to share with my team about the topic.
 
 ![git-cartoon-xkcd](https://imgs.xkcd.com/comics/git.png)
 
