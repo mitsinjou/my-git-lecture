@@ -6,8 +6,8 @@
 
 ### (shell)
 
-```
-echo "# my-git-lecture" >> README.md
+```bash
+echo "# my-repo-or-remote-Name" >> README.md
 
 git init
 
@@ -17,7 +17,7 @@ git commit -m "first commit"
 
 git branch -M main
 
-git remote add origin git@github.com:mitsinjou/my-git-lecture.git
+git remote add origin git@github.com:mitsinjou/my-repo-or-remote-Name.git
 
 git push -u origin main
 ```
@@ -28,8 +28,8 @@ git push -u origin main
 
 ### (in the shell)
 
-```
-git remote add origin git@github.com:mitsinjou/my-git-lecture.git
+```bash
+git remote add origin git@github.com:mitsinjou/my-repo-or-remote-Name.git
 
 git branch -M main
 
